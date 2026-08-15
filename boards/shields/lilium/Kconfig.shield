@@ -1,0 +1,6 @@
+config SHIELD_LILIUM_LEFT
+    def_bool $(shields_list_contains,lilium_left)
+
+config SHIELD_LILIUM_RIGHT
+    def_bool $(shields_list_contains,lilium_right)
+

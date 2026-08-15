@@ -1,0 +1,12 @@
+file_format: "1"
+id: lilium
+name: LiLium
+type: shield
+url: https://github.com/foostan/crkbd/
+requires:
+  - nice_nano_v2
+features:
+  - keys
+siblings:
+  - lilium_left
+  - lilium_right
