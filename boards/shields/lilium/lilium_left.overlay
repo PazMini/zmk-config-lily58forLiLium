@@ -1,5 +1,5 @@
-#include "lilium.dtsi"
 #include "lilium-layouts.dtsi"
+#include "lilium.dtsi"
 
 / {
     chosen {
